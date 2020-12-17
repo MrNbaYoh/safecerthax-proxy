@@ -1,4 +1,4 @@
-# safecerthax-proxy
+# ![safecerthax logo](https://safecerthax.rocks/assets/images/cover.png)
 This is a [mitmproxy](https://mitmproxy.org) script for [safecerthax](https://github.com/MrNbaYoh/safecerthax). You can use it to spoof official 3DS NUS servers and exploit safecerthax _**only**_ on O3DS/2DS SAFE_FIRM to run [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller). 
 
 For more information on safecerthax, please visit the [safecerthax website](https://safecerthax.rocks).
